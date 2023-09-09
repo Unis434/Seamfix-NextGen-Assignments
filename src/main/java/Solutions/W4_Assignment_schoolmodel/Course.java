@@ -1,4 +1,4 @@
-package schoolmodel;
+package Solutions.W4_Assignment_schoolmodel;
 
 import java.util.ArrayList;
 import java.util.List;

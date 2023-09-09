@@ -1,4 +1,4 @@
-package schoolmodel;
+package Solutions.W4_Assignment_schoolmodel;
 
 public class Teacher extends Person implements Teachable {
     public Teacher(String name, int age) {

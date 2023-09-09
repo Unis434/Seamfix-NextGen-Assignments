@@ -1,4 +1,4 @@
-package schoolmodel;
+package Solutions.W4_Assignment_schoolmodel;
 
 public class Person {
     private String name;

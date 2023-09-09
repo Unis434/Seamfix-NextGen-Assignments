@@ -1,4 +1,4 @@
-package schoolmodel;
+package Solutions.W4_Assignment_schoolmodel;
 
 public class Main {
     public static void main(String[] args) {

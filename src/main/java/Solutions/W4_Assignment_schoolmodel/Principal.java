@@ -1,4 +1,4 @@
-package schoolmodel;
+package Solutions.W4_Assignment_schoolmodel;
 
 public class Principal extends Person {
     public Principal(String name, int age) {

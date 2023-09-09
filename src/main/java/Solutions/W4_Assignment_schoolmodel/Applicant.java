@@ -1,4 +1,4 @@
-package schoolmodel;
+package Solutions.W4_Assignment_schoolmodel;
 
 public class Applicant extends Person {
     public Applicant(String name, int age) {

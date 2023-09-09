@@ -1,4 +1,4 @@
-package schoolmodel;
+package Solutions.W4_Assignment_schoolmodel;
 
 public class Student extends Person implements Learnable {
     public Student(String name, int age) {
