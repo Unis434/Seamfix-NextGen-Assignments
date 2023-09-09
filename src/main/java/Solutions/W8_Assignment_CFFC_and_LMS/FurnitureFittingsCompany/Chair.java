@@ -1,13 +1,13 @@
-package Solutions.W8_Assignment.FurnitureFittingsCompany;
+package Solutions.W8_Assignment_CFFC_and_LMS.FurnitureFittingsCompany;
 
-class Bookshelf implements FurnitureItem {
+class Chair implements FurnitureItem {
     private String itemName;
     private double price;
     private double width;
     private double height;
 
-    public Bookshelf(double price, double width, double height) {
-        this.itemName = "Bookshelf";
+    public Chair(double price, double width, double height) {
+        this.itemName = "Chair";
         this.price = price;
         this.width = width;
         this.height = height;
@@ -33,4 +33,5 @@ class Bookshelf implements FurnitureItem {
         return height;
     }
 }
+
 

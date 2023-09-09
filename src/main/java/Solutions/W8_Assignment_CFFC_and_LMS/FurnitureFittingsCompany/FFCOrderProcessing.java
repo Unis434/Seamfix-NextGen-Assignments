@@ -1,4 +1,4 @@
-package Solutions.W8_Assignment.FurnitureFittingsCompany;
+package Solutions.W8_Assignment_CFFC_and_LMS.FurnitureFittingsCompany;
 
 import java.util.Scanner;
 
